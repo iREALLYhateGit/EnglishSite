@@ -1,0 +1,42 @@
+/**{
+    margin: 0;
+    padding: 0;
+}*/
+html, body {
+    background-color:rgb(254, 208, 176);
+    font-style: normal;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+/*.wrapper{
+    display: flex;
+    flex-direction: column;
+    min-height: 90%;
+}*/
+/*.content{
+    margin-top: auto;
+}*/
+.logos{
+    width: 600px;
+}
+.menuLink{
+    color: rgb(45, 37, 69);
+    font-size:22px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.description{
+    font-size: 18px;
+}
+.mini{
+    width: 35px;
+    vertical-align:middle;
+}
+#palleteList{
+    list-style-type: none;
+    line-height: 40px;
+}
+.bottom{
+    margin-top: auto;
+    text-align: center;
+}
